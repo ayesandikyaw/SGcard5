@@ -1,0 +1,20 @@
+.parent{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    border: 1px solid #aaaaaa;
+    gap:20px;
+    width: 620px;
+    height: 250px;
+    
+}
+
+p{
+    font-size: 18px;
+}
+img{
+    width: 200px;
+    height: 250px;
+}
+.child3{
+    color:rgba(74, 62, 62, 0.7);
+}
